@@ -1,2 +1,2 @@
 !#/bin/bash
-achown vincent:guillaume hello
+chown vincent:guillaume hello
