@@ -1,0 +1,2 @@
+#!/bin/bash
+cat lacta |head -3| tail -1
