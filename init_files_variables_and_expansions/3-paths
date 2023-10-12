@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -l $PATH | wc -l
+ind type -d $PATH | wc -l
