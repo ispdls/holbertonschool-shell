@@ -1,2 +1,2 @@
 #!/bin/bash
-mkdir action $PATH | sort -v
+export PATH=$PATH:/action
