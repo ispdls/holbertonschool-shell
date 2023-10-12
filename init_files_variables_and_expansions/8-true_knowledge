@@ -1,2 +1,2 @@
 #!/bin/bash
-echo TRUEKNOWLED = + 128
+echo $(expr 128 + $TRUEKNOWLED)
